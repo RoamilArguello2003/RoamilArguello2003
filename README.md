@@ -20,3 +20,4 @@ I hold an Associate Degree in Computer Engineering from Universidad Politécnica
 
 ### Contacto / Contact
 - **Email:** [roamildejesus2003@gmail.com] / [roamildejesus2003@gmail.com].
+- **LinkedIn:** [Roamil Arguello](https://www.linkedin.com/in/roamil-arg%C3%BCello-a76b57273/?locale=es_ES) / [Roamil Argüello](www.linkedin.com/in/roamil-argüello-a76b57273)
