@@ -15,7 +15,7 @@ I hold an Associate Degree in Computer Engineering from Universidad Politécnica
 - **Frameworks:** React, Node.js, Django / **Frameworks:** React, Node.js, Django
 - **Herramientas:** Docker, VSCode, Bash, Unix / **Tools:** Docker, VSCode, Bash, Unix
 - **Bases de Datos:** MySQL, SQLite3 / **Databases:** MySQL, SQLite3
-- **Frontend:** HTML, CSS / **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS, Bootstrap / **Frontend:** HTML, CSS, Bootstrap
 - **Automatización:** Automatización de tareas con Python, scripts en Bash, pruebas automatizadas, despliegue continuo con Docker. / **Automation:** Task automation with Python, Bash scripts, automated testing, continuous deployment with Docker.
 
 ### Contacto / Contact
