@@ -13,7 +13,7 @@ I hold an Associate Degree in Computer Engineering from Universidad Politécnica
 #### Habilidades y Tecnologías / Skills and Technologies
 - **Lenguajes:** Python, JavaScript, Java / **Languages:** Python, JavaScript, Java
 - **Frameworks:** React, Node.js, Django / **Frameworks:** React, Node.js, Django
-- **Herramientas:** Git, Docker, VSCode, Bash, Unix / **Tools:** Git, Docker, VSCode, Bash, Unix
+- **Herramientas:** Docker, VSCode, Bash, Unix / **Tools:** Docker, VSCode, Bash, Unix
 - **Bases de Datos:** MySQL, SQLite3 / **Databases:** MySQL, SQLite3
 - **Frontend:** HTML, CSS / **Frontend:** HTML, CSS
 - **Automatización:** Automatización de tareas con Python, scripts en Bash, pruebas automatizadas, despliegue continuo con Docker. / **Automation:** Task automation with Python, Bash scripts, automated testing, continuous deployment with Docker.
