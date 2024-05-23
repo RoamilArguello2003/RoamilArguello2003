@@ -8,7 +8,7 @@ I hold an Associate Degree in Computer Engineering from Universidad Politécnica
 - 🌱 Aprendiendo y perfeccionando mis habilidades en **"desarrollo full-stack, React, Node.js, Bash, Unix, Docker y metodologías ágiles"**. / Learning and honing my skills in **"full-stack development, React, Node.js, Bash, Unix, Docker, and agile methodologies"**.
 - 👯 Buscando colaborar en proyectos relacionados con **"desarrollo de software de escritorio, aplicaciones web, análisis de datos, inteligencia artificial, automatización y sistemas distribuidos"**. / Looking to collaborate on projects related to **"desktop software development, web applications, data analysis, artificial intelligence, automation, and distributed systems"**.
 - 📫 Puedes contactarme en [roamildejesus2003@gmail.com]. / You can reach me at [roamildejesus2003@gmail.com].
-- ⚡ Dato curioso: [Me gusta dibujar, practicar baloncesto en mi tiempo libre o aprender sobre algún tema de interés para expandir mi conocimiento]. / Fun fact: [I enjoy drawing, playing basketball in my free time, or learning about various topics to expand my knowledge].
+- ⚡ Dato curioso: **Me gusta dibujar, practicar baloncesto en mi tiempo libre o aprender sobre algún tema de interés para expandir mi conocimiento**. / Fun fact: **I enjoy drawing, playing basketball in my free time, or learning about various topics to expand my knowledge**.
 
 #### Habilidades y Tecnologías / Skills and Technologies
 - **Lenguajes:** Python, JavaScript, Java / **Languages:** Python, JavaScript, Java
